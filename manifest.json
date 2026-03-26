@@ -1,0 +1,9 @@
+{
+  "name": "Hoa Ngữ HSK",
+  "short_name": "HoaNguHSK",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff7f2",
+  "theme_color": "#8b1e2d",
+  "icons": []
+}
